@@ -1,14 +1,14 @@
 # Casse-brique
 *fait par David Gu*
 ***
-##Introduction
+## Introduction
 Un jeu de casse brique pyxel
 ***
-##Echancier
+## Echancier
 -15/01/2025 Distribution du sujet
 ***
-##Développement
+## Développement
 ***
-##Critique
+## Critique
 ***
-##Conclusion
+## Conclusion
